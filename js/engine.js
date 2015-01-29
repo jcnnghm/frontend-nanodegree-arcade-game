@@ -138,6 +138,9 @@ var Engine = (function(global) {
 
 
         renderEntities();
+
+        // Renders the gameState information, like score.
+        gameState.render();
     }
 
     /* This function is called by the render function and is called on each game
