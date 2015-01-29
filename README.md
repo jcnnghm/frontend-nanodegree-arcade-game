@@ -1,6 +1,17 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Running the game:
 
-for self-checking their submission.
+Open index.html in Chrome.
+
+To play:
+
+Use the up, down, left, and right arrow keys to move the player.  Move the
+player across the road to the water, avoiding the bugs moving along the road.
+
+Gain 20 points for reaching the water
+Lose 10 points for hitting a bug
+
+Score is in the upper left.  Bug speed adjusts as the player does better or
+worse.  There isn't an ending, play until you're bored.
